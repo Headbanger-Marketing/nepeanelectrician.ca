@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nepeanelectrician.ca/sitemap-index.xml
